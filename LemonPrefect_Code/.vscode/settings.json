@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "limits": "c",
+        "杭电OJ-2025.C": "cpp",
+        "杭电OJ-2051.C": "cpp",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "杭电OJ-2104.C": "cpp",
+        "cstdlib": "cpp",
+        "ZH-1.C": "cpp",
+        "valarray": "cpp"
+    }
+}
