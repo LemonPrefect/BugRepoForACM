@@ -75,10 +75,6 @@ int main(){
             }
         }
     }
-
-
-
-
     int sum = 0;
     for(i = 0;i < x;i++){
         for(j = 0;j < y;j++){
@@ -89,9 +85,5 @@ int main(){
     }
     printf("%d\n",sum);
     return 0;
-    
-/*                else
-                    squareArray[i][j] = ((squareArray[i - 1][j] + 1 > squareArray[i][j - 1] + 1)?squareArray[i - 1][j]:squareArray[i][j - 1]) + 1;
-*/ 
 }
 
