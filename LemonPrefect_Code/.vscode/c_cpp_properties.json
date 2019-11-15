@@ -5,7 +5,7 @@
             "includePath": [
                 "${workspaceFolder}/**"
             ],
-            "compilerPath": "D:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.23.28105\\bin\\Hostx86\\x86\\cl.exe",
+            "compilerPath": "E:\\Program Files (x86)\\Dev-Cpp\\MinGW64\\bin\\gcc.exe",
             "defines": [
                 "_DEBUG",
                 "UNICODE",

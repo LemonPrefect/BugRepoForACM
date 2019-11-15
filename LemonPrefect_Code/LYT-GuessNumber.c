@@ -2,7 +2,8 @@
 int main(){
     int a = 0;
     srand(time(NULL));
-    int x = rand() % 10;
+    int x;
+	x = rand() % 10;
     while(1){
     	scanf("%d",&a);
     	if(a == x){
